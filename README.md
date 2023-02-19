@@ -6,7 +6,7 @@ Day-to-day I can be found working with incredible brands in fast-growing industr
 
 This is why I've become a Swiss Army knife at my trade: One day creating a visual solution for the project at hand, the next implementing the solution in code.
 
-- 👀 I’m interested in TypeScript, React, and Flutter
+- 👀 I’m interested in Remix, Shopify Hydrogen, TypeScript, and Flutter
 - ⏱ I'm spending a lot of time in the Shopify ecosystem
 - 🌱 I’m currently learning... 🤔, everything! It's a never ending journey.
 
