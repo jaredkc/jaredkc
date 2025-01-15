@@ -1,8 +1,8 @@
 # 👋 Hi, I’m @jaredkc
 
-I am a designer and full stack developer based in Salt Lake City, Utah.
+I am a designer and full-stack developer based in Salt Lake City, Utah.
 
-I work with incredible brands in fast-growing industries for enthusiasts, all interests of New Value Capital. I am business-oriented and passionate about solving everything from visual design to technical software solutions.
+I work with incredible brands in fast-growing industries for enthusiasts. I am business-oriented and passionate about solving everything from visual design to technical software solutions.
 
 This is why I've become a Swiss Army knife at my trade: One day, I create a visual solution for the project at hand, and the next, I implement the solution in code.
 
